@@ -1,0 +1,334 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f1faff;
+}
+
+header {
+  border: 2px solid green;
+  padding: 19px 0px;
+  width: 1780px;
+  margin: 0 auto;
+}
+/* LOGO STYLES */
+.logo-img {
+  vertical-align: middle;
+}
+.logo-text {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px;
+  color: #4468e2;
+}
+
+/* NAVIGATION STYLES */
+
+.naigation-list {
+  display: inline-block;
+
+  margin-left: 493px;
+}
+
+.list-item {
+  display: inline-block;
+  margin-left: 74px;
+}
+
+.connect {
+  font-size: 19px;
+  padding: 6px 18px;
+  background-color: #4468e2;
+  color: #fff;
+  border-radius: 17px;
+  margin-left: 470px;
+}
+
+.main-img {
+  border: 2px solid red;
+  width: 1780px;
+  margin: 0px auto;
+  vertical-align: middle;
+}
+/* BEST PRICE  */
+.firstrow {
+  border: 2px solid rgb(18, 18, 210);
+  width: 1780px;
+  height: 294px;
+  margin: 178px auto;
+}
+.background {
+  width: 103px;
+  height: 97px;
+  background-color: #f0f4fc;
+}
+
+.bestprice {
+  display: inline-block;
+  border: 2px solid green;
+  padding: 29px 50px 34px 26px;
+  width: 369px;
+  filter: drop-shadow(10px 40px 25px rgba(229, 233, 246, 0.4));
+  background: #ffffff;
+}
+
+.priceicon {
+  width: 53.8px;
+  height: 68px;
+  padding: 14px 24px;
+}
+.price-title {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 24px;
+  text-align: left;
+  color: #0f0f0f;
+}
+.pricedesc {
+  display: inline-block;
+  margin-top: 23px;
+  font-size: 20px;
+  text-align: left;
+  color: #0f0f0f;
+}
+
+/* 
+COVIDSAFE */
+
+.covidsafe {
+  display: inline-block;
+  border: 2px solid green;
+  padding: 29px 39px 34px 26px;
+  width: 369px;
+  filter: drop-shadow(10px 40px 25px rgba(229, 233, 246, 0.4));
+  background: #ffffff;
+}
+.covidicon {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  padding: 12px 16px;
+}
+.covid-title {
+  display: inline-block;
+
+  margin-top: 15px;
+  height: 28px;
+  font-size: 24px;
+  text-align: left;
+  color: #0f0f0f;
+}
+.coviddesc {
+  display: inline-block;
+
+  margin-top: 23px;
+  width: 304px;
+  height: 67px;
+  font-size: 20px;
+  text-align: left;
+  color: #0f0f0f;
+}
+/* 
+
+<!-- Flexible Payment --> */
+
+.Payment {
+  display: inline-block;
+  border: 2px solid green;
+  padding: 29px 5px 56px 31px;
+  width: 369px;
+  filter: drop-shadow(10px 40px 25px rgba(229, 233, 246, 0.4));
+  background: #ffffff;
+}
+.paymenticon {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  padding: 27px 20px;
+}
+
+.payment-title {
+  display: inline-block;
+  margin-top: 15px;
+  height: 28px;
+  font-size: 24px;
+  text-align: left;
+  color: #0f0f0f;
+}
+.paymentdesc {
+  display: inline-block;
+  margin-top: 23px;
+  width: 304px;
+  height: 67px;
+  font-size: 20px;
+  text-align: left;
+  color: #0f0f0f;
+}
+/* 
+<!-- 
+Find The Best Near You --> */
+.nearyou {
+  display: inline-block;
+  border: 2px solid green;
+  padding: 29px 11px 56px 24px;
+  width: 369px;
+  filter: drop-shadow(10px 40px 25px rgba(229, 233, 246, 0.4));
+  background: #ffffff;
+}
+.nearyouicon {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  padding: 13px 16px;
+}
+
+.nearyou-title {
+  display: inline-block;
+
+  margin-top: 15px;
+  height: 28px;
+  font-size: 24px;
+  text-align: left;
+  color: #0f0f0f;
+}
+.nearyoudesc {
+  display: inline-block;
+
+  margin-top: 23px;
+  width: 304px;
+  height: 67px;
+  font-size: 20px;
+  text-align: left;
+  color: #0f0f0f;
+}
+/* Recommended-section */
+.recommended-section {
+  width: 1780px;
+  margin: 65px auto 0px auto;
+}
+
+.recommended-title {
+  text-align: center;
+  border-color: #000000;
+  border-width: 1px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 193px;
+}
+
+.row-two {
+  margin-top: 200px;
+}
+
+.dest-card {
+  width: 552px;
+  display: inline-block;
+}
+
+.middle-card {
+  margin: 0px 58px;
+}
+
+.card-img {
+  width: 552px;
+  height: 398px;
+}
+
+.card-title {
+  font-size: 38px;
+}
+
+.card-desc {
+  font-size: 22px;
+  margin-top: 15px;
+  line-height: 28px;
+}
+
+.card-price {
+  font-size: 31px;
+  display: inline-block;
+  margin-left: 309px;
+}
+
+.price-section {
+  margin-top: 18px;
+}
+
+/* BLOGS */
+.blogs {
+  width: 1786px;
+  height: 706px;
+  display: inline-block;
+  margin: 170px auto;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+.blog-title {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+.photos {
+  width: 1786px;
+  margin-top: 30px;
+}
+.eliphant {
+  display: inline-block;
+  width: 965px;
+  height: 587px;
+}
+.palne {
+  display: inline-block;
+  vertical-align: top;
+  width: 785px;
+  height: 277px;
+}
+.girl {
+  display: inline-block;
+  vertical-align: bottom;
+  margin-left: 950px;
+  margin-bottom: 500px;
+  width: 785px;
+  height: 277px;
+}
+
+footer {
+  border: 2px solid green;
+  width: 1786px;
+  padding: 66px 68px;
+  margin: 0px auto;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 18px;
+
+  background: #e1e8f8;
+}
+
+.copyright {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 24px;
+  line-height: 60px;
+  text-align: left;
+  color: #000000;
+}
+
+.footer-list {
+  display: inline-block;
+  margin-left: 222px;
+}
+
+.footerlist-item {
+  display: inline-block;
+  margin-left: 69px;
+}
+
+.socialmedia {
+  margin-left: 222px;
+  display: inline-block;
+}
